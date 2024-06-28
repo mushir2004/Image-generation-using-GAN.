@@ -66,7 +66,7 @@ The Generator tries to fool the Discriminator by generating better and better im
 The Discriminator tries to get better at distinguishing real images from fake ones.
 Their ability to create realistic images has significant implications for various industries, including entertainment, art, and scientific research.
 
-[Here goes the title with hyperlink](https://github.com/mushir2004/Image-generation-using-GAN./tree/main)
+
 
 
 # Built With
@@ -97,17 +97,12 @@ For example, this is how you would list them:
   ```
 * Example of requirements.txt
   ```sh
-glob
-imageio
-matplotlib.pyplot
-numpy
-os
-PIL
-tensorflow 
-time
-
-from IPython import display
-```
+  tensorflow
+  opencv-python
+  matplotlib.pyplot
+  numpy
+  keras
+  ```
 
 ### Installation
 
