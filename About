@@ -1,0 +1,6 @@
+Generative Adversarial Networks are technology in the field of image generation.
+They consist of two neural networks: a Generator and a Discriminator.
+At the time of training:
+The Generator tries to fool the Discriminator by generating better and better images.
+The Discriminator tries to get better at distinguishing real images from fake ones.
+Their ability to create realistic images has significant implications for various industries, including entertainment, art, and scientific research.
